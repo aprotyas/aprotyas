@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning electrical engineering, robotics, and autonomous systems.  
+🌱 I’m currently learning electrical and computer engineering, robotics, and autonomous systems.  
 📫 How to reach me: aprotyas@u.rochester.edu  
 ⚡ Fun fact: There's an arrow in the FedEx logo...  
 
