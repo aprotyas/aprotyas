@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning electrical engineering, robotics, and autonomous systems.  
+📫 How to reach me: aprotyas@u.rochester.edu  
+⚡ Fun fact: There's an arrow in the FedEx logo...  
+
 <!--
 **aprotyas/aprotyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
