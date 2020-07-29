@@ -1,15 +1,14 @@
 ### Hi, I'm Abrar 👋  
 
-**__For recruiters: I'm looking for Summer 2021 internships in robotics, autonomous tech, electronics, and embedded systems.
-[Link to my resume.](https://aprotyas.github.io/resources/resume.pdf)__**  
+**_For recruiters: I'm looking for Summer 2021 internships in robotics, autonomous tech, electronics, and embedded systems.
+[Link to my resume.](https://aprotyas.github.io/resources/resume.pdf)_**
 
 #### About me:  
-
 I am a senior undergraduate student studying Electrical and Computer Engineering at the University of Rochester.
 I am broadly interested in robotics and autonomous systems. This interest ranges throughout the 'robotics'
 stack: from motion planning and state estimation to manipulation and human-robot interaction. I have spent time
 as an Applications Engineering Intern at Silicon Labs, and as a Research Fellow at the Wireless Communication
-and Networking Group (WCNG).  
+and Networking Group (WCNG).
 
 #### Some tid-bits:  
 🌱 I’m currently learning electrical and computer engineering, robotics, and autonomous systems.  
