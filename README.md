@@ -12,11 +12,10 @@ as an Applications Engineering Intern at [Silicon Labs](https://www.silabs.com/)
 
 To learn more about my experiences, please check out my portfolio at [aprotyas.github.io](https://aprotyas.github.io) 😄
 
-#### Some tid-bits:  
-🌱 I’m currently learning electrical and computer engineering, robotics, and autonomous systems.  
+#### Some tid-bits:    
 📫 How to reach me: aprotyas@u.rochester.edu, `@aprotyas` on all relevant platforms  
-⚡ Fun fact: There's an arrow in the FedEx logo...  
-
+⚡ Fun fact: There's an arrow in the FedEx logo 🤔  
+💬 Ask me about: My cats 😄  
 <!--
 **aprotyas/aprotyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
