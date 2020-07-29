@@ -7,8 +7,8 @@
 I am a senior undergraduate student studying Electrical and Computer Engineering at the University of Rochester.
 I am broadly interested in robotics and autonomous systems. This interest ranges throughout the 'robotics'
 stack: from motion planning and state estimation to manipulation and human-robot interaction. I have spent time
-as an Applications Engineering Intern at Silicon Labs, and as a Research Fellow at the Wireless Communication
-and Networking Group (WCNG).
+as an Applications Engineering Intern at [Silicon Labs](https://www.silabs.com/), and as a Research Fellow at the
+[Wireless Communication and Networking Group (WCNG)](http://www2.ece.rochester.edu/projects/wcng/).
 
 #### Some tid-bits:  
 🌱 I’m currently learning electrical and computer engineering, robotics, and autonomous systems.  
